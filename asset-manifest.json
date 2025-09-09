@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sumio/static/css/main.f855e6bc.css",
+    "main.js": "/Sumio/static/js/main.9cedb5e2.js",
+    "static/js/453.893cec3a.chunk.js": "/Sumio/static/js/453.893cec3a.chunk.js",
+    "static/media/logo.svg": "/Sumio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Sumio/index.html",
+    "main.f855e6bc.css.map": "/Sumio/static/css/main.f855e6bc.css.map",
+    "main.9cedb5e2.js.map": "/Sumio/static/js/main.9cedb5e2.js.map",
+    "453.893cec3a.chunk.js.map": "/Sumio/static/js/453.893cec3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9cedb5e2.js"
+  ]
+}
