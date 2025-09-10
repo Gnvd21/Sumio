@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Sumio/static/css/main.e9a4f800.css",
-    "main.js": "/Sumio/static/js/main.124e4eaf.js",
+    "main.css": "/Sumio/static/css/main.9b46898b.css",
+    "main.js": "/Sumio/static/js/main.fb2c7428.js",
     "static/js/453.893cec3a.chunk.js": "/Sumio/static/js/453.893cec3a.chunk.js",
-    "static/media/Sumio_logo_cropped.jpg": "/Sumio/static/media/Sumio_logo_cropped.9883c128a3f6bf7e11c5.jpg",
     "index.html": "/Sumio/index.html",
-    "main.e9a4f800.css.map": "/Sumio/static/css/main.e9a4f800.css.map",
-    "main.124e4eaf.js.map": "/Sumio/static/js/main.124e4eaf.js.map",
+    "main.9b46898b.css.map": "/Sumio/static/css/main.9b46898b.css.map",
+    "main.fb2c7428.js.map": "/Sumio/static/js/main.fb2c7428.js.map",
     "453.893cec3a.chunk.js.map": "/Sumio/static/js/453.893cec3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9a4f800.css",
-    "static/js/main.124e4eaf.js"
+    "static/css/main.9b46898b.css",
+    "static/js/main.fb2c7428.js"
   ]
 }
