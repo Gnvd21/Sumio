@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/Sumio/static/css/main.9b46898b.css",
-    "main.js": "/Sumio/static/js/main.fb2c7428.js",
+    "main.css": "/Sumio/static/css/main.a3f712c4.css",
+    "main.js": "/Sumio/static/js/main.28642e22.js",
     "static/js/453.893cec3a.chunk.js": "/Sumio/static/js/453.893cec3a.chunk.js",
+    "static/media/Gyudon.png": "/Sumio/static/media/Gyudon.071d434ecba65819bf13.png",
+    "static/media/Oyakodon.png": "/Sumio/static/media/Oyakodon.d6f80da083c4293d1487.png",
+    "static/media/Chicken Nanban.png": "/Sumio/static/media/Chicken Nanban.6d0d6cb6a3067039a7bf.png",
+    "static/media/Katsudon.png": "/Sumio/static/media/Katsudon.38377497c21bebecf467.png",
+    "static/media/Karaagedon.png": "/Sumio/static/media/Karaagedon.339d1513d24486962234.png",
+    "static/media/Chashudon.png": "/Sumio/static/media/Chashudon.aca03d54d472544535d1.png",
+    "static/media/Tonkatsu.png": "/Sumio/static/media/Tonkatsu.2ce79ab9a3038ba64ed4.png",
+    "static/media/Cheesy Menchi Katsu.png": "/Sumio/static/media/Cheesy Menchi Katsu.df9900b7efe96571af9c.png",
+    "static/media/Chicken Curry.png": "/Sumio/static/media/Chicken Curry.6e3532ff8e2465954833.png",
+    "static/media/Katsu Curry.png": "/Sumio/static/media/Katsu Curry.5a03567ae4bcf9586bf4.png",
+    "static/media/Beef Curry.png": "/Sumio/static/media/Beef Curry.9256606717fce32b0027.png",
     "index.html": "/Sumio/index.html",
-    "main.9b46898b.css.map": "/Sumio/static/css/main.9b46898b.css.map",
-    "main.fb2c7428.js.map": "/Sumio/static/js/main.fb2c7428.js.map",
+    "main.a3f712c4.css.map": "/Sumio/static/css/main.a3f712c4.css.map",
+    "main.28642e22.js.map": "/Sumio/static/js/main.28642e22.js.map",
     "453.893cec3a.chunk.js.map": "/Sumio/static/js/453.893cec3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b46898b.css",
-    "static/js/main.fb2c7428.js"
+    "static/css/main.a3f712c4.css",
+    "static/js/main.28642e22.js"
   ]
 }
